@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "5f5268733cf874a457228062"
+  },
+  "Name": "Design Patterns",
+  "Price": 54.93,
+  "Category": "Computers",
+  "Author": "Ralph Johnson"
+},{
+  "_id": {
+    "$oid": "5f5268733cf874a457228063"
+  },
+  "Name": "Clean Code",
+  "Price": 43.15,
+  "Category": "Computers",
+  "Author": "Robert C. Martin"
+}]
